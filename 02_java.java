@@ -1,4 +1,4 @@
-// Random number generator guessing game with loops (12/12/19)
+// Random number generator guessing game with loops (12/12/2019)
 
 import java.util.Random;
 import java.util.Scanner;
